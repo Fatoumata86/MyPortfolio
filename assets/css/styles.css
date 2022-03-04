@@ -154,6 +154,7 @@ nav ul li {
 	line-height: var(--line-height);
 	padding: 0.4rem;
 	color: #555;
+	text-align: justify;
 }
 /* More about ends */
 
